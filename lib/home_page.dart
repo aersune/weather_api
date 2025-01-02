@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: Text('GGG'),
+        child: Text('Ysuududd'),
       ),
     );
   }
